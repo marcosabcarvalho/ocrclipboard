@@ -1,9 +1,0 @@
-[Desktop Entry]
-Name=OCR Clipboard App
-Comment=Captura área da tela e faz OCR
-Exec=/usr/bin/ocrclipboard
-Icon=ocrclipboard
-Terminal=false
-Type=Application
-Categories=Utility;
-Path=/tmp

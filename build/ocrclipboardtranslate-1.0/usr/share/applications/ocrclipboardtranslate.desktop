@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=OCR & Translate Clipboard App
+Comment=Captura área da tela, faz OCR e traduz para português
+Exec=/usr/bin/ocrclipboardtranslate
+Icon=ocrclipboard
+Terminal=false
+Type=Application
+Categories=Utility;
+Path=/tmp

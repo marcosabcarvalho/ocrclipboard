@@ -1,9 +1,0 @@
-Package: ocrclipboard
-Version: 1.0
-Section: utils
-Priority: optional
-Architecture: amd64
-Depends: gnome-screenshot, xclip, tesseract-ocr, tesseract-ocr-por
-Maintainer: Marcos Carvalho <marcosabcarvalho@yahoo.com>
-Description: OCR Clipboard App
- Captura área da tela, faz OCR e exibe texto editável.
