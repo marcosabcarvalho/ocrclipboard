@@ -1,5 +1,3 @@
-# ocrclipboard
-OCR Clipboard App – Captura uma região da tela, faz OCR usando Tesseract e exibe o texto reconhecido em uma interface Tkinter editável.
 # OCR Clipboard App
 
 Uma aplicação de desktop em Python que permite capturar qualquer área da tela, executar OCR (reconhecimento óptico de caracteres) com o Tesseract e exibir o texto resultante em uma janela editável.
